@@ -1,0 +1,5 @@
+# System packages needed for LIBRIS on Streamlit Cloud
+# These are installed via apt-get
+
+# For PDF processing
+poppler-utils
